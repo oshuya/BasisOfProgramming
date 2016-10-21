@@ -1,0 +1,1 @@
+let intro name = "my name is "^name^" です";;
